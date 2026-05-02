@@ -51,17 +51,32 @@
 | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF1?style=for-the-badge&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4F8FB3?style=for-the-badge) | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
+
 ---
 
-## 📈 My GitHub Stats
+## 📊 My GitHub Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omarapthikaadir-collab&show_icons=true&theme=dark" alt="Omar's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarapthikaadir-collab&show_icons=true&theme=dark" alt="Omar's Stats" />
+</p>
 
-
-  ## 🤝 Connect with Me
+## 🔥 Streak Stats
 <p align="center">
-  <a href="https://instagram.com/6mrk3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="mailto:omarapthikaadir@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" /></a>
-  <a href="https://github.com/omarapthikaadir-collab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarapthikaadir-collab&theme=dark" alt="Omar's Streak" />
 </p>
+
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/6mrk3r" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:omarapthikaadir@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/omarapthikaadir-collab" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="45" />
+  </a>
 </p>
+
+---
