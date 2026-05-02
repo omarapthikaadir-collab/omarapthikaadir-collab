@@ -1,14 +1,15 @@
 <h1 align="center">Hi there, I'm Omar Abdikadir 👋</h1>
 
-<p align="center">
-  <img src="giphy.gif" alt="Coding GIF" width="400" />
-</p>
-
 ## 🚀 About Me
 
 <p align="left">
   💡 <b>Software Engineering student dedicated to building impactful, real-world applications.</b>
 </p>
+
+<p align="center">
+  <img src="giphy.gif" width="400" />
+</p>
+
 
 <!-- Boos dheeri ah oo lagu kala fogeynayo qoraalka iyo sawirka -->
 <br>
