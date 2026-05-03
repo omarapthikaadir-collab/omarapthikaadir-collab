@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Omar Abdikadir Hassan 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Mobile+App+Developer;🛡️+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
