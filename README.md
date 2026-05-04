@@ -69,7 +69,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto://omarapthikaadir@gmail.com" target="_blank">
+  <a href="mailto://gmail.com/omarapthikaadir@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="45" />
   </a>
   &nbsp;&nbsp;
