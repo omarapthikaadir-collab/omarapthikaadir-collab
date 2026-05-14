@@ -57,10 +57,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=omarapthikaadir-collab&show_icons=true&theme=dark" alt="Omar's Stats" />
 </p>
 
+---
+
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarapthikaadir-collab&theme=dark" alt="Omar's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarapthikaadir-collab&theme=tokyonight" alt="Omar's Streak" />
 </p>
+
+---
 
 ## 🤝 Connect with Me
 <p align="center">
